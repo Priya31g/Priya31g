@@ -24,3 +24,5 @@ Tech Skills I can work with
 - LinkedIn : -[Priya Kumari Gupta](linkedin.com/in/priya-kumari-gupta)
 - Email : - priyakumarigupta790@gmail.com
 - Portfolio : - 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Priya31g)

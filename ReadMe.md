@@ -5,7 +5,7 @@
 
 
 
-A  Curious Full Stack Web Developer trained in MERN stack and DSA.
+A  Curious Full Stack Web Developer trained in MERN stack and DSA.Passionate about building quality user-centric products using MERN stack. Committed to achieving excellence in her work. Excited about kickstarting a career in the software industry.
 
 ## Tech
 

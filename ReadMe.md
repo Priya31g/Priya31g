@@ -14,7 +14,7 @@ Tech Skills I can work with
 
  -   [Redux] - helps you write applications that behave consistently, run in different environments
 - [React JS] - an open-source JavaScript library that is used for building user interfaces specifically for single-page applications. 
-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="drawing" width="100" height=""/100> [node.js] - evented I/O for the backend
+- ![img](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png| width=100) [node.js] - evented I/O for the backend
 - [Express] - fast node.js network app framework
 - [HTML] - the code that is used to structure a web page and its content
 - [CSS] - use to style an HTML document.

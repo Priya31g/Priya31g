@@ -25,12 +25,15 @@ Tech Skills I can work with
  - Email : priyakumarikumarigupta790@gmail.com
 <p align="left">
 
-<a href="https://www.linkedin.com/in/priya-kumari-gupta/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQurpaywSluyZGHIPm3j51vicj1DwwbtlKY4FuJ1JtCY2vVA4j3E8zg9MuqHWeCvbbsQuE&usqp=CAU" alt="Priya31g" height="30" width="40" /></a>
-  <a href="https://twitter.com/Priya31g" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm8nDA7yyYznnkn6f57C4Rb_PZ_gGbdcgXYkrkvEOTypGFIoaVHnex1zUknbs2iSPYKX8&usqp=CAU" alt="@Priya31g" height="30" width="40" /></a>
-  <a href="https://github.com/Priya31g" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr4VHec9btFy20cbGvPdp3ASbnMZgvJBB618b_KST4M_K5zVE14NxMZlrqkfl006rOMDw&usqp=CAU" alt="Priya31g" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/priya-kumari-gupta/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQurpaywSluyZGHIPm3j51vicj1DwwbtlKY4FuJ1JtCY2vVA4j3E8zg9MuqHWeCvbbsQuE&usqp=CAU" alt="Priya31g" height="50" width="50" /></a>
+  <a href="https://twitter.com/Priya31g" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm8nDA7yyYznnkn6f57C4Rb_PZ_gGbdcgXYkrkvEOTypGFIoaVHnex1zUknbs2iSPYKX8&usqp=CAU" alt="@Priya31g" height="50" width="50" /></a>
+  <a href="https://github.com/Priya31g" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr4VHec9btFy20cbGvPdp3ASbnMZgvJBB618b_KST4M_K5zVE14NxMZlrqkfl006rOMDw&usqp=CAU" alt="Priya31g" height="50" width="50" /></a>
 
 </p>
-## Protfolio : [Demo]("https://priya-gupta-portfolio-priyakumarigupta.vercel.app/")
+
+## Protfolio : [Demo](https://priya-gupta-portfolio-priyakumarigupta.vercel.app/) 
+
 ### My Github Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=Priya31g)
-![GithubStats]("https://github-readme-streak-stats.herokuapp.com/?user=Priya31g")
+![Github stats](https://github-readme-stats.vercel.app/api?username=Priya31g&show_icons=true&locale=en)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priya31g)](https://git.io/streak-stats)
+
